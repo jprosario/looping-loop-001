@@ -1,5 +1,7 @@
 def looping
-	#your code here
+  loop do
+	   puts 'infinity and beyond'
+  end 
 end
 
-#call your method here
+looping
